@@ -1,4 +1,4 @@
-function caesarCipher(str, shift) {.
+function caesarCipher(str, shift) {
     let result = "";
 
     for (let i = 0; i < str.length; i++) {
