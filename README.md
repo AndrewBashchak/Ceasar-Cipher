@@ -1,2 +1,2 @@
-﻿# CeasarCipher-on-JS
-Andrew Bashchak IPZs-24-2
+﻿# Ceasar Cipher
+Andrew Bashchak, student of KDU, group: SEs-24-2
